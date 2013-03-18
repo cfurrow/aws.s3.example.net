@@ -1,0 +1,5 @@
+*.suo
+obj/
+bin/
+.DS_Store
+*.user
